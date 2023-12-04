@@ -1,0 +1,92 @@
+[
+  {
+    "room_name": "Serenity Suite",
+    "room_description": "A spacious and peaceful suite with a view of the garden, perfect for a relaxing getaway.",
+    "price_per_night": 200,
+    "room_size": "400 sq. ft",
+    "available_seats": 2,
+    "room_images": "https://i.ibb.co/z7gtBw0/r1.jpg",
+    "special_offers": "Stay 3 nights, get 1 night free"
+  },
+  {
+    "room_name": "Coastal Retreat",
+    "room_description": "Experience the tranquility of the coast in this cozy room with a sea view.",
+    "price_per_night": 250,
+    "room_size": "350 sq. ft",
+    "available_seats": 2,
+    "room_images": "https://i.ibb.co/Lt5PW35/r2.jpg",
+    "special_offers": "No offer available"
+  },
+  {
+    "room_name": "Garden View Haven",
+    "room_description": "This room offers a serene and picturesque garden view. It's a perfect haven for those who seek tranquility and a connection with nature. The room is designed with comfort and relaxation in mind, providing a peaceful escape from the hustle and bustle of everyday life.",
+    "price_per_night": 180,
+    "room_size": "300 sq. ft",
+    "available_seats": 3,
+    "room_images": "https://i.ibb.co/64NFgnh/r3.jpg",
+    "special_offers": "10% off for advance bookings"
+  },
+  {
+    "room_name": "Romantic Hideaway",
+    "room_description": "The Romantic Hideaway is a cozy retreat designed for couples seeking a romantic escape. With its intimate atmosphere and charming decor, this room sets the stage for a memorable and romantic experience. Whether it's a honeymoon or a special anniversary, it's the ideal hideaway for lovebirds.",
+    "price_per_night": 380,
+    "room_size": "350 sq. ft",
+    "available_seats": 1,
+    "room_images": "https://i.ibb.co/ZdyGcw9/r4.jpg",
+    "special_offers": "10% off for advance bookings"
+  },
+  {
+    "room_name": "Luxury Loft",
+    "room_description": "The Luxury Loft is a spacious and elegant room designed for those who appreciate the finer things in life. With a modern, upscale design and a touch of luxury in every detail, this room is perfect for travelers looking for an indulgent and comfortable stay.",
+    "price_per_night": 180,
+    "room_size": "500 sq. ft",
+    "available_seats": 4,
+    "room_images": "https://i.ibb.co/3skPX9B/r5.jpg",
+    "special_offers": "10% off for advance bookings"
+  },
+  {
+    "room_name": "Family Comfort Suite",
+    "room_description": " The Family Comfort Suite is a spacious and welcoming room that's perfect for families. With multiple beds and plenty of space, it offers a comfortable and convenient stay for parents and children. It's designed to ensure that families can relax and enjoy their time together.",
+    "price_per_night": 580,
+    "room_size": "600 sq. ft",
+    "available_seats": 1,
+    "room_images": "https://i.ibb.co/8c84W9z/r6.jpg",
+    "special_offers": "10% off for advance bookings"
+  },
+  {
+    "room_name": "Seaside Bliss",
+    "room_description": "Seaside Bliss is a room with a breathtaking view of the sea. It provides an idyllic setting for those who long for the sound of waves and the sight of endless horizons. This room is designed to bring the bliss of the beach right to your doorstep.",
+    "price_per_night": 180,
+    "room_size": "300 sq. ft",
+    "available_seats": 1,
+    "room_images": "https://i.ibb.co/xJ9HQJ3/r7.jpg",
+    "special_offers": "10% off for advance bookings"
+  },
+  {
+    "room_name": "Mountain View Retreat",
+    "room_description": "Mountain View Retreat is a room with stunning vistas of majestic mountains. It's an ideal choice for nature enthusiasts and adventurers looking to reconnect with the great outdoors. The room is a retreat that offers both comfort and a connection with nature.",
+    "price_per_night": 580,
+    "room_size": "350 sq. ft",
+    "available_seats": 3,
+    "room_images": "https://i.ibb.co/f9kWJtp/r8.jpg",
+    "special_offers": "10% off for advance bookings"
+  },
+  {
+    "room_name": "Vintage Charm Room",
+    "room_description": " The Vintage Charm Room is a room that oozes old-world charm and character. With vintage furnishings and decor, it's designed to transport guests back in time. This room is perfect for those who appreciate nostalgia and timeless elegance.",
+    "price_per_night": 480,
+    "room_size": "600 sq. ft",
+    "available_seats": 6,
+    "room_images": "https://i.ibb.co/TKNZJw5/r9.jpg",
+    "special_offers": "10% off for advance bookings"
+  },
+  {
+    "room_name": "Executive Skyline Suite",
+    "room_description": "The Executive Skyline Suite is a room for those who demand the best. With a stunning panoramic view of the city skyline, it offers a lavish and spacious setting for business travelers and discerning guests. It's designed to provide a sophisticated and upscale experience.",
+    "price_per_night": 780,
+    "room_size": "500 sq. ft",
+    "available_seats": 3,
+    "room_images": "https://i.ibb.co/fGs8NFS/r10.jpg",
+    "special_offers": "10% off for advance bookings"
+  }
+]
